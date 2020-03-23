@@ -8,7 +8,6 @@
 import { Characteristic } from '@abandonware/noble'
 import { EventEmitter } from 'events'
 import TypedEmitter from 'typed-emitter'
-import { Characteristic } from 'noble-mac'
 import semver from 'semver'
 import { MotorSpec, MoveToTarget, MoveToOptions, MotorResponse } from './specs/motor-spec'
 
